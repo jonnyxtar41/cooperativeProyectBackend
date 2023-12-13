@@ -1,0 +1,27 @@
+user { 
+ name : text ,
+ description; text ,
+ avatarUrl: text , 
+ skills: array, []
+ achivements: { objeto},
+
+ }
+
+proyects {
+  title: ,
+  owner: ,
+  description: ,
+  members: [""],
+  repository: ,
+}
+
+/login
+/signup
+/getuserbyname
+
+
+/getproyect
+/getproyects
+/createproyect
+/joinproyect
+/updateproyect
